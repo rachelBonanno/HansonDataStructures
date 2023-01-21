@@ -51,138 +51,138 @@ Hanson: Ch. 1 & 2; Intro and First Section (titled "Interface") of Ch. 3-4, 7-9,
 ```diff
 + Chapter 1
 ```
-&emsp; &emsp; &emsp; &emsp; double.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/double.c <br>
+&emsp; double.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/double.c <br>
 <br>
 ```diff
 + Chapter 2
 ```
-&emsp; &emsp; &emsp; &emsp; arith.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arith.h <br>
-&emsp; &emsp; &emsp; &emsp; arith.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arith.c <br>
-&emsp; &emsp; &emsp; &emsp; stack.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/stack.c <br>
+&emsp; arith.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arith.h <br>
+&emsp; arith.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arith.c <br>
+&emsp; stack.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/stack.c <br>
 <br>
 ```diff
-Chapter 3
++ Chapter 3
 ```
-&emsp; &emsp; &emsp; &emsp; atom.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/atom.h <br>
-&emsp; &emsp; &emsp; &emsp; atom.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/atom.c <br>
+&emsp; atom.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/atom.h <br>
+&emsp; atom.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/atom.c <br>
 <br>
 ```diff
-Chapter 4
++ Chapter 4
 ```
-&emsp; &emsp; &emsp; &emsp; except.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/except.h <br>
-&emsp; &emsp; &emsp; &emsp; except.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/except.c <br>
-&emsp; &emsp; &emsp; &emsp; assert.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/assert.h <br>
-&emsp; &emsp; &emsp; &emsp; assert.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/assert.c <br>
+&emsp; except.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/except.h <br>
+&emsp; except.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/except.c <br>
+&emsp; assert.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/assert.h <br>
+&emsp; assert.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/assert.c <br>
 <br>
 ```diff
-Chapter 5
+- Chapter 5
 ```
-&emsp; &emsp; &emsp; &emsp; mem.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mem.h <br>
-&emsp; &emsp; &emsp; &emsp; mem.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mem.c <br>
-&emsp; &emsp; &emsp; &emsp; memchk.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/memchk.c <br>
+&emsp; mem.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mem.h <br>
+&emsp; mem.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mem.c <br>
+&emsp; memchk.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/memchk.c <br>
 <br>
 ```diff
-Chapter 6
+- Chapter 6
 ```
-&emsp; &emsp; &emsp; &emsp; arena.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arena.h <br>
-&emsp; &emsp; &emsp; &emsp; arena.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arena.c <br>
+&emsp; arena.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arena.h <br>
+&emsp; arena.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arena.c <br>
 <br>
 ```diff
-Chapter 7
++ Chapter 7
 ```
-&emsp; &emsp; &emsp; &emsp; list.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/list.h <br>
-&emsp; &emsp; &emsp; &emsp; list.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/list.c <br>
+&emsp; list.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/list.h <br>
+&emsp; list.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/list.c <br>
 <br>
 ```diff
-Chapter 8
++ Chapter 8
 ```
-&emsp; &emsp; &emsp; &emsp; table.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/table.h <br>
-&emsp; &emsp; &emsp; &emsp; getword.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/getword.h<br>
-&emsp; &emsp; &emsp; &emsp; getword.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/getword.c <br>
-&emsp; &emsp; &emsp; &emsp; table.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/table.c <br>
+&emsp; table.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/table.h <br>
+&emsp; getword.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/getword.h<br>
+&emsp; getword.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/getword.c <br>
+&emsp; table.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/table.c <br>
 <br>
 ```diff
-Chapter 9
++ Chapter 9
 ```
-&emsp; &emsp; &emsp; &emsp; set.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/set.h <br>
-&emsp; &emsp; &emsp; &emsp; set.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/set.c <br>
+&emsp; set.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/set.h <br>
+&emsp; set.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/set.c <br>
 <br>
 ```diff
-Chapter 10
+- Chapter 10
 ```
-&emsp; &emsp; &emsp; &emsp; array.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/array.h <br>
-&emsp; &emsp; &emsp; &emsp; arrayrep.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arrayrep.h <br>
-&emsp; &emsp; &emsp; &emsp; array.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/array.c <br>
+&emsp; array.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/array.h <br>
+&emsp; arrayrep.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arrayrep.h <br>
+&emsp; array.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/array.c <br>
 <br>
 ```diff
-Chapter 11
++ Chapter 11
 ```
-&emsp; &emsp; &emsp; &emsp; seq.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/seq.h <br>
-&emsp; &emsp; &emsp; &emsp; seq.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/seq.c <br>
+&emsp; seq.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/seq.h <br>
+&emsp; seq.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/seq.c <br>
 <br>
 ```diff
-Chapter 12
+- Chapter 12
 ```
-&emsp; &emsp; &emsp; &emsp; ring.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ring.h <br>
-&emsp; &emsp; &emsp; &emsp; ring.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ring.c <br>
+&emsp; ring.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ring.h <br>
+&emsp; ring.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ring.c <br>
 <br>
 ```diff
-Chapter 13
+- Chapter 13
 ```
-&emsp; &emsp; &emsp; &emsp; bit.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/bit.h <br>
-&emsp; &emsp; &emsp; &emsp; bit.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/bit.c <br>
+&emsp; bit.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/bit.h <br>
+&emsp; bit.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/bit.c <br>
 <br>
 ```diff
-Chapter 14
+- Chapter 14
 ```
-&emsp; &emsp; &emsp; &emsp; fmt.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/fmt.h <br>
-&emsp; &emsp; &emsp; &emsp; fmt.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/fmt.c <br>
+&emsp; fmt.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/fmt.h <br>
+&emsp; fmt.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/fmt.c <br>
 <br>
 ```diff
-Chapter 15
+- Chapter 15
 ```
-&emsp; &emsp; &emsp; &emsp; str.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/str.h <br>
-&emsp; &emsp; &emsp; &emsp; ids.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ids.c <br>
-&emsp; &emsp; &emsp; &emsp; str.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/str.c <br>
+&emsp; str.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/str.h <br>
+&emsp; ids.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ids.c <br>
+&emsp; str.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/str.c <br>
 <br>
 ```diff
-Chapter 16
+- Chapter 16
 ```
-&emsp; &emsp; &emsp; &emsp; text.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/test.h <br>
-&emsp; &emsp; &emsp; &emsp; text.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/text.c <br>
+&emsp; text.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/test.h <br>
+&emsp; text.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/text.c <br>
 <br>
 ```diff
-Chapter 17
+- Chapter 17
 ```
-&emsp; &emsp; &emsp; &emsp; xp.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/xp.h <br>
-&emsp; &emsp; &emsp; &emsp; xp.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/xp.c <br>
+&emsp; xp.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/xp.h <br>
+&emsp; xp.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/xp.c <br>
 <br>
 ```diff
-Chapter 18
+- Chapter 18
 ```
-&emsp; &emsp; &emsp; &emsp; ap.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ap.h <br>
-&emsp; &emsp; &emsp; &emsp; calc.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/calc.c <br>
-&emsp; &emsp; &emsp; &emsp; ap.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ap.c <br>
+&emsp; ap.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ap.h <br>
+&emsp; calc.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/calc.c <br>
+&emsp; ap.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ap.c <br>
 <br>
 ```diff
-Chapter 19
+- Chapter 19
 ```
-&emsp; &emsp; &emsp; &emsp; mp.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mp.h <br>
-&emsp; &emsp; &emsp; &emsp; mpcalc.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mpcalc.c <br>
-&emsp; &emsp; &emsp; &emsp; mp.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mp.c <br>
+&emsp; mp.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mp.h <br>
+&emsp; mpcalc.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mpcalc.c <br>
+&emsp; mp.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mp.c <br>
 <br>
 ```diff
-Chapter 20
+- Chapter 20
 ```
-&emsp; &emsp; &emsp; &emsp; thread.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/thread.h <br>
-&emsp; &emsp; &emsp; &emsp; sem.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/sem.h <br>
-&emsp; &emsp; &emsp; &emsp; chan.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/chan.h <br>
-&emsp; &emsp; &emsp; &emsp; sort.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/sort.c <br>
-&emsp; &emsp; &emsp; &emsp; spin.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/spin.c <br>
-&emsp; &emsp; &emsp; &emsp; sieve.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/sieve.c <br>
-&emsp; &emsp; &emsp; &emsp; chan.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/chan.c <br>
-&emsp; &emsp; &emsp; &emsp; thread.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/thread.c <br>
-&emsp; &emsp; &emsp; &emsp; swtch.s https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/swtch.s <br>
+&emsp; thread.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/thread.h <br>
+&emsp; sem.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/sem.h <br>
+&emsp; chan.h &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/chan.h <br>
+&emsp; sort.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/sort.c <br>
+&emsp; spin.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/spin.c <br>
+&emsp; sieve.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/sieve.c <br>
+&emsp; chan.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/chan.c <br>
+&emsp; thread.c &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/thread.c <br>
+&emsp; swtch.s &emsp; &emsp; &emsp; https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/swtch.s <br>
 
 ```diff 
 ! See David R Handsons GitHub for other code ! 
