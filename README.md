@@ -3,7 +3,8 @@ C Interfaces and Implementations Techniques for Creating Reusable Software By Da
 Extractions of code in the book in a more readable format.<br>
 
 ## Chapters Assigned in CS40@Tufts
-Hanson: Ch. 1 & 2; Intro and First Section (titled "Interface") of Ch. 3-4, 7-9, 11; Section 8.2
+Hanson: Ch. 1 & 2; Intro and First Section (titled "Interface") of Ch. 3-4, 7-9, 11; Section 8.2 <br>
+[code only provided for required class reading]
 
 ## Code in Book
 Chapter 1: double.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/double.c <br>
