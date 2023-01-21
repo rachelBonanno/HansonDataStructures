@@ -23,12 +23,20 @@ Chapter 8: table.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; getword.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; getword.c <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; table.c <br>
-Chapter 9: <br>
-&emsp; &emsp; &emsp; &nbsp; &nbsp; 
-&emsp; &emsp; &emsp; &nbsp; &nbsp; 
-&emsp; &emsp; &emsp; &nbsp; &nbsp; 
-&emsp; &emsp; &emsp; &nbsp; &nbsp; 
-&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+Chapter 9: set.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; set.c <br>
+Chapter 10: array.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; arrayrep.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; array.c <br>
+Chapter 11: seq.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; seq.c <br>
+Chapter 12: ring.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; ring.c <br>
+Chapter 13: bit.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; bit.c <br>
+Chapter 14: fmt.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; fmt.c <br>
+Chapter 15: <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; 
 &emsp; &emsp; &emsp; &nbsp; &nbsp; 
 &emsp; &emsp; &emsp; &nbsp; &nbsp; 
