@@ -50,13 +50,13 @@ Hanson: Ch. 1 & 2; Intro and First Section (titled "Interface") of Ch. 3-4, 7-9,
 
 ## Code in Book
 Chapter 1: double.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/double.c <br>
-Chapter 2: arith.h <br>
-&emsp; &emsp; &emsp; &nbsp; &nbsp; arith.c <br>
-&emsp; &emsp; &emsp; &nbsp; &nbsp; stack.c <br>
-Chapter 3: atom.h <br>
-&emsp; &emsp; &emsp; &nbsp; &nbsp; atom.c  <br>
-Chapter 4: except.h <br>
-&emsp; &emsp; &emsp; &nbsp; &nbsp; except.c <br>
+Chapter 2: arith.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arith.h<br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; arith.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/arith.c<br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; stack.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/stack.c<br>
+Chapter 3: atom.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/atom.h<br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; atom.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/atom.c<br>
+Chapter 4: except.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/except.h<br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; except.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/except.c<br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; assert.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; assert.c <br>
 Chapter 5: mem.h <br>
