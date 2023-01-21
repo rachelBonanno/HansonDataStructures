@@ -45,7 +45,9 @@ Hanson: Ch. 1 & 2; Intro and First Section (titled "Interface") of Ch. 3-4, 7-9,
 ```diff
 ! Interface Summary 
 # starts on page 470 in textbook
+# or you can look at the slide set linked below
 ```
+<p align="center"> http://cii.s3.amazonaws.com/book/pdf/quickref.pdf <p>
 
 ## Code in Book
 ```diff
