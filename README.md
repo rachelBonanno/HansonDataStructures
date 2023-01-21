@@ -4,7 +4,6 @@ Extractions of code in the book in a more readable format.<br>
 
 ## Chapters Assigned in CS40@Tufts
 Hanson: Ch. 1 & 2; Intro and First Section (titled "Interface") of Ch. 3-4, 7-9, 11; Section 8.2 <br>
-[code only provided for required class reading]
 
 ## Breakdown of Hanson Chapters
 ```diff
