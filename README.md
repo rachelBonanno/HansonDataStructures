@@ -67,8 +67,8 @@ Chapter 6: arena.h <br>
 Chapter 7: list.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; list.c <br>
 Chapter 8: table.h <br>
-&emsp; &emsp; &emsp; &nbsp; &nbsp; getword.h <br>
-&emsp; &emsp; &emsp; &nbsp; &nbsp; getword.c <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; getword.h https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/getword.h<br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; getword.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/getword.c <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; table.c <br>
 Chapter 9: set.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; set.c <br>
@@ -91,7 +91,7 @@ Chapter: 16 text.h <br>
 Chapter 17: xp.h <br>
 &emsp; &emsp; &emsp; &emsp; xp.c <br>
 Chapter 18: ap.h <br>
-&emsp; &emsp; &emsp; &emsp; calc.c <br>
+&emsp; &emsp; &emsp; &emsp; calc.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/calc.c <br>
 &emsp; &emsp; &emsp; &emsp; ap.c <br>
 Chapter 19: mp.h <br>
 &emsp; &emsp; &emsp; &emsp; mpcalc.c <br>
