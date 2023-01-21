@@ -44,11 +44,8 @@ Hanson: Ch. 1 & 2; Intro and First Section (titled "Interface") of Ch. 3-4, 7-9,
 ```
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+! Interface Summary 
+# starts on page 470 in textbook
 ```
 
 ## Code in Book
