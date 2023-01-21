@@ -84,7 +84,7 @@ Chapter 13: bit.h <br>
 Chapter 14: fmt.h <br>
 &emsp; &emsp; &emsp; &emsp; fmt.c <br>
 Chapter 15: str.h <br>
-&emsp; &emsp; &emsp; &emsp; ids.c <br>
+&emsp; &emsp; &emsp; &emsp; ids.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/ids.c <br>
 &emsp; &emsp; &emsp; &emsp; str.c <br>
 Chapter: 16 text.h <br>
 &emsp; &emsp; &emsp; &emsp; text.c <br>
@@ -94,14 +94,16 @@ Chapter 18: ap.h <br>
 &emsp; &emsp; &emsp; &emsp; calc.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/calc.c <br>
 &emsp; &emsp; &emsp; &emsp; ap.c <br>
 Chapter 19: mp.h <br>
-&emsp; &emsp; &emsp; &emsp; mpcalc.c <br>
+&emsp; &emsp; &emsp; &emsp; mpcalc.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/mpcalc.c <br>
 &emsp; &emsp; &emsp; &emsp; mp.c <br>
 Chapter 20: thread.h <br>
 &emsp; &emsp; &emsp; &emsp; sem.h <br>
 &emsp; &emsp; &emsp; &emsp; chan.h <br>
-&emsp; &emsp; &emsp; &emsp; sort.c <br>
-&emsp; &emsp; &emsp; &emsp; spin.c <br>
-&emsp; &emsp; &emsp; &emsp; sieve.c <br>
+&emsp; &emsp; &emsp; &emsp; sort.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/sort.c <br>
+&emsp; &emsp; &emsp; &emsp; spin.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/spin.c <br>
+&emsp; &emsp; &emsp; &emsp; sieve.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/sieve.c <br>
 &emsp; &emsp; &emsp; &emsp; chan.c <br>
 &emsp; &emsp; &emsp; &emsp; thread.c <br>
 &emsp; &emsp; &emsp; &emsp; swtch.s <br>
+```diff! See David R Handsons GitHub for other code.```https://github.com/drh/cii
+
