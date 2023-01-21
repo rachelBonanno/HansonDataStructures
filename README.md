@@ -26,7 +26,7 @@ Chapter 8: table.h <br>
 Chapter 9: set.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; set.c <br>
 Chapter 10: array.h <br>
-&emsp; &emsp; &emsp; &nbsp; &nbsp; arrayrep.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; arrayrep.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; array.c <br>
 Chapter 11: seq.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; seq.c <br>
