@@ -15,5 +15,6 @@ Chapter 4: except.h <br>
 Chapter 5: mem.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; mem.c <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; memchk.c <br>
-&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+CHapter 6: arena.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; arena.c <br>
            
