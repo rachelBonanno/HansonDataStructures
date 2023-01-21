@@ -106,9 +106,7 @@ Chapter 20: thread.h <br>
 &emsp; &emsp; &emsp; &emsp; thread.c <br>
 &emsp; &emsp; &emsp; &emsp; swtch.s <br>
 
-align="center"
 ```diff 
 ! See David R Handsons GitHub for other code ! 
 ``` 
-https://github.com/drh/cii
-
+<p align="center"> https://github.com/drh/cii <p>
