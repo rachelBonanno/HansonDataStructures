@@ -15,6 +15,25 @@ Chapter 4: except.h <br>
 Chapter 5: mem.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; mem.c <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; memchk.c <br>
-CHapter 6: arena.h <br>
+Chapter 6: arena.h <br>
 &emsp; &emsp; &emsp; &nbsp; &nbsp; arena.c <br>
+Chapter 7: list.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; list.c <br>
+Chapter 8: table.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; getword.h <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; getword.c <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; table.c <br>
+Chapter 9: <br>
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
+&emsp; &emsp; &emsp; &nbsp; &nbsp; 
            
