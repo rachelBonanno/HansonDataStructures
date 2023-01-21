@@ -6,6 +6,51 @@ Extractions of code in the book in a more readable format.<br>
 Hanson: Ch. 1 & 2; Intro and First Section (titled "Interface") of Ch. 3-4, 7-9, 11; Section 8.2 <br>
 [code only provided for required class reading]
 
+## Breakdown of Hanson Chapters
+```diff
+@@ Foundations @@
++ 1. Introduction
++ 2. Interfaces and Implementations
++ 4. Exceptions and Assertions
+- 5. Memory Management
+- 6. More Memory Management
+```
+```diff
+@@ Data Structures @@
++ 7. Lists
++ 8. Tables
++ 9. Sets
+- 10. Dynamic Arrays
++ 11. Sequences
+- 12. Rings
+- 13. Bit Vectors
+```
+```diff
+@@ Strings @@ 
++ 3. Atoms
+- 14. Formatting
+- 15. Low-Level Strings
+- 16. High-Level Strings
+```
+```diff
+@@ Arithmetic @@
+- 17. Extended-Precision Arithmetic
+- 18. Arbitrary-Precision Arithmetic
+- 19. Multiple-Precision Arithmetic
+```
+```diff
+@@ Threads @@
+- 20. Threads
+```
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ## Code in Book
 Chapter 1: double.c https://github.com/rachelBonanno/HansonDataStructures/blob/main/code/double.c <br>
 Chapter 2: arith.h <br>
